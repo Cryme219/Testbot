@@ -41,5 +41,5 @@ async def unrole(ctx, *, role: discord.Role):
     author = ctx.message.author
     await author.remove_roles(roles)
     await author.send(f'{role} has been successfully removed')
-client.run("NjQ0NzY5MTkxMzY2NDkyMTY0.Xc42Nw.mm8c1_kPnon_D1GMfb-8O2MuplY")
+client.run("Insert token here")
     
